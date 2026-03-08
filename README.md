@@ -31,7 +31,7 @@ Pré-requisitos: conhecimentos básicos em Linux, Docker e AWS.
 
 1. Clonar o repositório
 
-git clone https://github.com/regianeflorinda/toshiro-shibakita.git
+git clone https://github.com/regianeflorinda7628/toshiro-shibakita.git
 
 2. Acessar a pasta do projeto
 
